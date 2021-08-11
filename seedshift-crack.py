@@ -1,7 +1,7 @@
 # seedshift-crack.py
 
 # seedshift information here: https://github.com/mifunetoshiro/Seedshift
-# puzzle information here: 
+# puzzle information here: https://www.reddit.com/r/CryptoCurrency/comments/ovrnvp/bruteforceable_puzzle_free_crypto_for_whoever/
 
 # import libs
 import datetime
